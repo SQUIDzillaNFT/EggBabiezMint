@@ -1,0 +1,21 @@
+img uri
+
+QmRhJZTbbfQeTA1T9roejvXRMDgC5CzsfgTNQqhPr6TX47
+
+metadata uri
+
+QmcwS8Wchk8JrMd8S5eT7ReBzW4kTrCDCdUCodxeqCfDG2
+
+ipfs://QmcwS8Wchk8JrMd8S5eT7ReBzW4kTrCDCdUCodxeqCfDG2/
+
+Goerli contract 8.17
+
+0x569e640AE6802413c63Fa73dC0Dc872678a113a6
+
+Contract Address
+
+0xbAD426dbA3febe13abb33A070bEc4Ff39a168d17
+
+owner wallet 
+
+0x9E6b843ec6e341fE5E341919852d888fA284c3DF
